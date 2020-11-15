@@ -1,0 +1,27 @@
+Recipiente de agua:
+Altura 23 cm
+Litros 2 l
+radio 5 cm
+
+Volumen pi x 25 x 30 
+
+
+30cm  ------------ 2,5 l
+20 cm ------------ 1,66 l
+
+
+Sensor da 10cm -->  30cm - 10cm = 20cm
+
+
+Humedad de la maceta:
+
+0 humedo ----- 1023 seco
+
+
+1023 ------ 100% seco / 0% humedo
+
+300 ------- 29% seco / 71% humedo
+
+0 --------- 0% seco / 100% humedo
+
+500 ------- 48% seco / 52% humedo
