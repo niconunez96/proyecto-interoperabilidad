@@ -4,7 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "/home/nicolas/Descargas/arduino-1.8.13/tools/**",
-                "${workspaceFolder}/**",
+                "${workspaceFolder}/ProyectoInteroperabilidad/**",
                 "/home/nicolas/Descargas/arduino-1.8.13/hardware/arduino/avr/**",
                 "/home/nicolas/Descargas/arduino-1.8.13/hardware/tools/avr/avr/include",
                 "/home/nicolas/Arduino/libraries/**"
